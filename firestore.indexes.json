@@ -1,10 +1,8 @@
 {
-  "indexes": [
-    {
+  "indexes": [{
       "collectionGroup": "restaurants",
       "queryScope": "COLLECTION",
-      "fields": [
-        {
+      "fields": [{
           "fieldPath": "price",
           "order": "ASCENDING"
         },
@@ -17,8 +15,7 @@
     {
       "collectionGroup": "restaurants",
       "queryScope": "COLLECTION",
-      "fields": [
-        {
+      "fields": [{
           "fieldPath": "city",
           "order": "ASCENDING"
         },
@@ -31,8 +28,7 @@
     {
       "collectionGroup": "restaurants",
       "queryScope": "COLLECTION",
-      "fields": [
-        {
+      "fields": [{
           "fieldPath": "price",
           "order": "ASCENDING"
         },
@@ -45,8 +41,7 @@
     {
       "collectionGroup": "restaurants",
       "queryScope": "COLLECTION",
-      "fields": [
-        {
+      "fields": [{
           "fieldPath": "city",
           "order": "ASCENDING"
         },
@@ -59,8 +54,7 @@
     {
       "collectionGroup": "restaurants",
       "queryScope": "COLLECTION",
-      "fields": [
-        {
+      "fields": [{
           "fieldPath": "category",
           "order": "ASCENDING"
         },
@@ -73,8 +67,7 @@
     {
       "collectionGroup": "restaurants",
       "queryScope": "COLLECTION",
-      "fields": [
-        {
+      "fields": [{
           "fieldPath": "category",
           "order": "ASCENDING"
         },
@@ -87,8 +80,7 @@
     {
       "collectionGroup": "restaurants",
       "queryScope": "COLLECTION",
-      "fields": [
-        {
+      "fields": [{
           "fieldPath": "city",
           "order": "ASCENDING"
         },
@@ -101,8 +93,7 @@
     {
       "collectionGroup": "restaurants",
       "queryScope": "COLLECTION",
-      "fields": [
-        {
+      "fields": [{
           "fieldPath": "category",
           "order": "ASCENDING"
         },
